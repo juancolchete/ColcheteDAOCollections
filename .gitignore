@@ -10,3 +10,5 @@ node_modules
 .yarn/cache
 #.pnp.*
 .env
+wakatimeMetadata.js
+generateImages.js
